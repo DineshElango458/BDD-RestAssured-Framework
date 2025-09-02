@@ -1,0 +1,11 @@
+.idea
+.settings
+target
+allure-results
+allure-report.zip
+allure-report
+src/test/resources/FileDownloadTest/*.txt
+.vscode
+BDD-RestAssured-Framework.iml
+.classpath
+.project

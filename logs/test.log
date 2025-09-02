@@ -1,0 +1,360 @@
+14:13:05.519 [main] INFO  logs.TestListener - Test Sutite Started
+14:13:07.291 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+14:13:07.291 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+14:13:07.291 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+14:13:07.291 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+14:13:11.685 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+14:13:11.685 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+14:13:11.685 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+14:13:11.685 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+14:13:13.648 [main] INFO  logs.TestListener - Test Sutite Completed
+14:21:10.568 [main] INFO  logs.TestListener - Test Sutite Started
+14:21:16.128 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+14:21:16.128 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+14:21:16.128 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+14:21:16.128 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+14:21:20.635 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+14:21:20.635 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+14:21:20.635 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+14:21:20.635 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+14:21:22.841 [main] INFO  logs.TestListener - Test Sutite Completed
+15:09:21.909 [main] INFO  logs.TestListener - Test Sutite Started
+15:09:25.097 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:09:25.097 [TestNG-PoolService-5] INFO  logs.TestListener - StartedrunScenario
+15:09:25.097 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:09:25.098 [TestNG-PoolService-8] INFO  logs.TestListener - StartedrunScenario
+15:09:25.098 [TestNG-PoolService-6] INFO  logs.TestListener - StartedrunScenario
+15:09:25.098 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:09:25.099 [TestNG-PoolService-9] INFO  logs.TestListener - StartedrunScenario
+15:09:25.097 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:09:25.098 [TestNG-PoolService-4] INFO  logs.TestListener - StartedrunScenario
+15:09:25.098 [TestNG-PoolService-7] INFO  logs.TestListener - StartedrunScenario
+15:09:33.209 [TestNG-PoolService-7] WARN  logs.TestListener - FailedrunScenario
+15:09:33.209 [TestNG-PoolService-4] WARN  logs.TestListener - FailedrunScenario
+15:09:33.218 [TestNG-PoolService-6] WARN  logs.TestListener - FailedrunScenario
+15:09:33.225 [TestNG-PoolService-5] WARN  logs.TestListener - FailedrunScenario
+15:09:33.247 [TestNG-PoolService-7] INFO  logs.TestListener - StartedrunScenario
+15:09:33.247 [TestNG-PoolService-6] INFO  logs.TestListener - StartedrunScenario
+15:09:33.251 [TestNG-PoolService-4] INFO  logs.TestListener - StartedrunScenario
+15:09:33.252 [TestNG-PoolService-5] INFO  logs.TestListener - StartedrunScenario
+15:09:36.016 [TestNG-PoolService-5] INFO  logs.TestListener - PassedrunScenario
+15:09:36.017 [TestNG-PoolService-7] INFO  logs.TestListener - PassedrunScenario
+15:09:36.018 [TestNG-PoolService-5] INFO  logs.TestListener - StartedrunScenario
+15:09:36.018 [TestNG-PoolService-7] INFO  logs.TestListener - StartedrunScenario
+15:09:36.023 [TestNG-PoolService-4] INFO  logs.TestListener - PassedrunScenario
+15:09:36.025 [TestNG-PoolService-4] INFO  logs.TestListener - StartedrunScenario
+15:09:36.026 [TestNG-PoolService-8] INFO  logs.TestListener - PassedrunScenario
+15:09:36.027 [TestNG-PoolService-8] INFO  logs.TestListener - StartedrunScenario
+15:09:36.060 [TestNG-PoolService-0] INFO  logs.TestListener - PassedrunScenario
+15:09:36.068 [TestNG-PoolService-3] INFO  logs.TestListener - PassedrunScenario
+15:09:36.099 [TestNG-PoolService-9] INFO  logs.TestListener - PassedrunScenario
+15:09:36.102 [TestNG-PoolService-1] INFO  logs.TestListener - PassedrunScenario
+15:09:36.159 [TestNG-PoolService-6] INFO  logs.TestListener - PassedrunScenario
+15:09:36.169 [TestNG-PoolService-2] INFO  logs.TestListener - PassedrunScenario
+15:09:36.664 [TestNG-PoolService-7] INFO  logs.TestListener - PassedrunScenario
+15:09:36.755 [TestNG-PoolService-4] INFO  logs.TestListener - PassedrunScenario
+15:09:36.817 [TestNG-PoolService-5] INFO  logs.TestListener - PassedrunScenario
+15:09:36.856 [TestNG-PoolService-8] INFO  logs.TestListener - PassedrunScenario
+15:09:39.132 [main] INFO  logs.TestListener - Test Sutite Completed
+15:35:05.540 [main] INFO  logs.TestListener - Test Sutite Started
+15:35:07.765 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:35:07.765 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:35:07.765 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:35:07.765 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:35:09.504 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload{
+    "name": "user1",
+    "job": "QA"
+}
+15:35:09.505 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload{
+    "name": "",
+    "job": "Dev"
+}
+15:35:12.290 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:35:12.290 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:35:12.290 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:35:12.290 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:35:14.470 [main] INFO  logs.TestListener - Test Sutite Completed
+15:36:41.616 [main] INFO  logs.TestListener - Test Sutite Started
+15:36:47.172 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:36:47.172 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:36:47.172 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:36:47.173 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:36:49.526 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:36:49.526 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+15:36:52.942 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:36:52.942 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:36:52.943 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:36:52.945 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:36:54.978 [main] INFO  logs.TestListener - Test Sutite Completed
+15:37:50.902 [main] INFO  logs.TestListener - Test Sutite Started
+15:37:53.111 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:37:53.111 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:37:53.110 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:37:53.111 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:37:54.896 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:37:54.896 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+15:37:57.243 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "id": "655",
+    "createdAt": "2025-04-06T10:07:32.220Z"
+}
+15:37:57.243 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "id": "866",
+    "createdAt": "2025-04-06T10:07:32.258Z"
+}
+15:37:57.434 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:37:57.434 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:37:57.434 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:37:57.434 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:37:59.390 [main] INFO  logs.TestListener - Test Sutite Completed
+20:07:11.435 [main] INFO  logs.TestListener - Test Sutite Started
+20:07:13.600 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+20:07:13.600 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+20:07:13.600 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+20:07:13.600 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+20:07:15.918 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+20:07:15.918 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+20:07:19.172 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key.",
+    "how_to_get_one": "https://reqres.in/signup"
+}
+20:07:19.176 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key.",
+    "how_to_get_one": "https://reqres.in/signup"
+}
+20:07:19.450 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+20:07:19.450 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+20:07:19.450 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+20:07:19.450 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+20:07:22.482 [main] INFO  logs.TestListener - Test Sutite Completed
+11:28:06.032 [main] INFO  logs.TestListener - Test Sutite Started
+11:28:07.666 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+11:28:07.666 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+11:28:07.666 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+11:28:07.666 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+11:28:09.852 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+11:28:09.853 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+11:28:13.090 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+11:28:13.091 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+11:28:13.294 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+11:28:13.294 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+11:28:13.294 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+11:28:13.295 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+11:28:19.701 [main] INFO  logs.TestListener - Test Sutite Completed
+15:06:25.851 [main] INFO  logs.TestListener - Test Sutite Started
+15:06:27.834 [TestNG-PoolService-22] INFO  logs.TestListener - StartedrunScenario
+15:06:27.834 [TestNG-PoolService-20] INFO  logs.TestListener - StartedrunScenario
+15:06:27.834 [TestNG-PoolService-27] INFO  logs.TestListener - StartedrunScenario
+15:06:27.834 [TestNG-PoolService-21] INFO  logs.TestListener - StartedrunScenario
+15:06:27.835 [TestNG-PoolService-19] INFO  logs.TestListener - StartedrunScenario
+15:06:27.835 [TestNG-PoolService-36] INFO  logs.TestListener - StartedrunScenario
+15:06:27.835 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:06:27.835 [TestNG-PoolService-32] INFO  logs.TestListener - StartedrunScenario
+15:06:27.836 [TestNG-PoolService-6] INFO  logs.TestListener - StartedrunScenario
+15:06:27.836 [TestNG-PoolService-35] INFO  logs.TestListener - StartedrunScenario
+15:06:27.836 [TestNG-PoolService-30] INFO  logs.TestListener - StartedrunScenario
+15:06:27.836 [TestNG-PoolService-7] INFO  logs.TestListener - StartedrunScenario
+15:06:27.836 [TestNG-PoolService-26] INFO  logs.TestListener - StartedrunScenario
+15:06:27.837 [TestNG-PoolService-8] INFO  logs.TestListener - StartedrunScenario
+15:06:27.837 [TestNG-PoolService-31] INFO  logs.TestListener - StartedrunScenario
+15:06:27.837 [TestNG-PoolService-29] INFO  logs.TestListener - StartedrunScenario
+15:06:27.837 [TestNG-PoolService-25] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-9] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-18] INFO  logs.TestListener - StartedrunScenario
+15:06:27.837 [TestNG-PoolService-37] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-24] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-23] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-10] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-11] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-12] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-4] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-15] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-5] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-13] INFO  logs.TestListener - StartedrunScenario
+15:06:27.838 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-14] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:06:27.840 [TestNG-PoolService-17] INFO  logs.TestListener - StartedrunScenario
+15:06:27.840 [TestNG-PoolService-28] INFO  logs.TestListener - StartedrunScenario
+15:06:27.839 [TestNG-PoolService-16] INFO  logs.TestListener - StartedrunScenario
+15:06:27.840 [TestNG-PoolService-33] INFO  logs.TestListener - StartedrunScenario
+15:06:27.841 [TestNG-PoolService-34] INFO  logs.TestListener - StartedrunScenario
+15:06:27.841 [TestNG-PoolService-38] INFO  logs.TestListener - StartedrunScenario
+15:06:27.846 [TestNG-PoolService-41] INFO  logs.TestListener - StartedrunScenario
+15:06:27.847 [TestNG-PoolService-40] INFO  logs.TestListener - StartedrunScenario
+15:06:27.850 [TestNG-PoolService-42] INFO  logs.TestListener - StartedrunScenario
+15:06:27.850 [TestNG-PoolService-39] INFO  logs.TestListener - StartedrunScenario
+15:06:27.850 [TestNG-PoolService-43] INFO  logs.TestListener - StartedrunScenario
+15:06:29.589 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:06:29.589 [TestNG-PoolService-21] WARN  logs.TestListener - FailedrunScenario
+15:06:29.595 [TestNG-PoolService-10] WARN  logs.TestListener - FailedrunScenario
+15:06:29.595 [TestNG-PoolService-6] WARN  logs.TestListener - FailedrunScenario
+15:06:29.595 [TestNG-PoolService-7] WARN  logs.TestListener - FailedrunScenario
+15:06:29.595 [TestNG-PoolService-22] WARN  logs.TestListener - FailedrunScenario
+15:06:29.592 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:06:29.593 [TestNG-PoolService-23] WARN  logs.TestListener - FailedrunScenario
+15:06:29.591 [TestNG-PoolService-8] WARN  logs.TestListener - FailedrunScenario
+15:06:29.591 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:06:29.591 [TestNG-PoolService-5] WARN  logs.TestListener - FailedrunScenario
+15:06:29.592 [TestNG-PoolService-4] WARN  logs.TestListener - FailedrunScenario
+15:06:31.297 [TestNG-PoolService-24] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:06:31.297 [TestNG-PoolService-28] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:06:31.300 [TestNG-PoolService-29] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+15:06:31.301 [TestNG-PoolService-25] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user2",
+    "job": "Dev"
+}
+15:06:34.920 [TestNG-PoolService-29] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:06:34.925 [TestNG-PoolService-25] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:06:34.933 [TestNG-PoolService-24] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:06:34.940 [TestNG-PoolService-28] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:06:34.949 [TestNG-PoolService-25] WARN  logs.TestListener - FailedrunScenario
+15:06:34.954 [TestNG-PoolService-27] WARN  logs.TestListener - FailedrunScenario
+15:06:34.982 [TestNG-PoolService-26] WARN  logs.TestListener - FailedrunScenario
+15:06:34.981 [TestNG-PoolService-42] WARN  logs.TestListener - FailedrunScenario
+15:06:34.982 [TestNG-PoolService-12] WARN  logs.TestListener - FailedrunScenario
+15:06:34.984 [TestNG-PoolService-31] WARN  logs.TestListener - FailedrunScenario
+15:06:34.984 [TestNG-PoolService-24] WARN  logs.TestListener - FailedrunScenario
+15:06:34.994 [TestNG-PoolService-28] WARN  logs.TestListener - FailedrunScenario
+15:06:34.997 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:06:35.002 [TestNG-PoolService-40] WARN  logs.TestListener - FailedrunScenario
+15:06:35.017 [TestNG-PoolService-39] WARN  logs.TestListener - FailedrunScenario
+15:06:35.017 [TestNG-PoolService-33] WARN  logs.TestListener - FailedrunScenario
+15:06:35.017 [TestNG-PoolService-29] WARN  logs.TestListener - FailedrunScenario
+15:06:35.020 [TestNG-PoolService-19] WARN  logs.TestListener - FailedrunScenario
+15:06:35.022 [TestNG-PoolService-43] WARN  logs.TestListener - FailedrunScenario
+15:06:35.024 [TestNG-PoolService-34] WARN  logs.TestListener - FailedrunScenario
+15:06:35.024 [TestNG-PoolService-30] WARN  logs.TestListener - FailedrunScenario
+15:06:35.029 [TestNG-PoolService-11] WARN  logs.TestListener - FailedrunScenario
+15:06:35.029 [TestNG-PoolService-38] WARN  logs.TestListener - FailedrunScenario
+15:06:35.032 [TestNG-PoolService-36] WARN  logs.TestListener - FailedrunScenario
+15:06:35.037 [TestNG-PoolService-13] INFO  logs.TestListener - PassedrunScenario
+15:06:35.039 [TestNG-PoolService-14] WARN  logs.TestListener - FailedrunScenario
+15:06:35.040 [TestNG-PoolService-37] WARN  logs.TestListener - FailedrunScenario
+15:06:35.040 [TestNG-PoolService-32] WARN  logs.TestListener - FailedrunScenario
+15:06:35.041 [TestNG-PoolService-35] WARN  logs.TestListener - FailedrunScenario
+15:06:36.534 [TestNG-PoolService-15] INFO  logs.TestListener - PassedrunScenario
+15:06:36.816 [TestNG-PoolService-17] WARN  logs.TestListener - FailedrunScenario
+15:06:37.161 [TestNG-PoolService-16] INFO  logs.TestListener - PassedrunScenario
+15:06:37.175 [TestNG-PoolService-41] WARN  logs.TestListener - FailedrunScenario
+15:06:37.229 [TestNG-PoolService-20] INFO  logs.TestListener - PassedrunScenario
+15:06:37.596 [TestNG-PoolService-18] INFO  logs.TestListener - PassedrunScenario
+15:06:39.829 [TestNG-PoolService-9] WARN  logs.TestListener - FailedrunScenario
+15:06:47.298 [main] INFO  logs.TestListener - Test Sutite Completed
+15:13:19.285 [main] INFO  logs.TestListener - Test Sutite Started
+15:13:20.973 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:13:20.973 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:13:20.973 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:13:20.973 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:13:22.229 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:13:22.229 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "",
+    "job": "Dev"
+}
+15:13:24.193 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:13:24.193 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:13:24.340 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:13:24.341 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:13:24.340 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:13:24.340 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:13:27.008 [main] INFO  logs.TestListener - Test Sutite Completed
+15:15:18.733 [main] INFO  logs.TestListener - Test Sutite Started
+15:15:20.094 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:15:20.094 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:15:20.094 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:15:20.094 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:15:21.441 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user2",
+    "job": "Dev"
+}
+15:15:21.441 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:15:23.620 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:15:23.621 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:15:23.762 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:15:23.762 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:15:23.762 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:15:23.762 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:15:26.072 [main] INFO  logs.TestListener - Test Sutite Completed
+15:16:05.484 [main] INFO  logs.TestListener - Test Sutite Started
+15:16:06.676 [TestNG-PoolService-1] INFO  logs.TestListener - StartedrunScenario
+15:16:06.676 [TestNG-PoolService-0] INFO  logs.TestListener - StartedrunScenario
+15:16:06.676 [TestNG-PoolService-3] INFO  logs.TestListener - StartedrunScenario
+15:16:06.676 [TestNG-PoolService-2] INFO  logs.TestListener - StartedrunScenario
+15:16:08.032 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user2",
+    "job": "Dev"
+}
+15:16:08.032 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Payload Logging{
+    "name": "user1",
+    "job": "QA"
+}
+15:16:09.977 [TestNG-PoolService-1] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:16:09.977 [TestNG-PoolService-0] INFO  steps.reqres.PostSteps - Response Body ::{
+    "error": "Missing API key"
+}
+15:16:10.135 [TestNG-PoolService-0] WARN  logs.TestListener - FailedrunScenario
+15:16:10.135 [TestNG-PoolService-2] WARN  logs.TestListener - FailedrunScenario
+15:16:10.135 [TestNG-PoolService-3] WARN  logs.TestListener - FailedrunScenario
+15:16:10.135 [TestNG-PoolService-1] WARN  logs.TestListener - FailedrunScenario
+15:16:13.991 [main] INFO  logs.TestListener - Test Sutite Completed
