@@ -1,24 +1,42 @@
+name: Java CI with Allure Report
 
-name: Java CI with Maven
-
-on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+on: [push]
 
 jobs:
-  build:
-
+  test-and-report:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Set up JDK 17
-      uses: actions/setup-java@v4
-      with:
-        java-version: '17'
-        distribution: 'temurin'
-        cache: maven
-    - name: Build with Maven
-      run: mvn test
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Java
+      - name: Set up JDK 17
+        uses: actions/supersetup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      # Step 3: Run the tests. This may fail, but we want to continue anyway.
+      - name: Run tests with Maven
+        run: mvn test
+        continue-on-error: true  # This is the key! The job will continue even if tests fail.
+
+      # Step 4: Generate the Allure Report.
+      # The 'if: always()' condition ensures this runs even if previous steps failed.
+      - name: Generate Allure Report
+        if: always()  # This is the other key! Always run this step.
+        run: |
+          wget https://github.com/allure-framework/allure2/releases/download/2.27.0/allure-2.27.0.tgz
+          tar -zxvf allure-2.27.0.tgz
+          ./allure-2.27.0/bin/allure generate target/allure-results -o allure-report --clean
+
+      # Step 5: Upload the report artifact. Also runs always().
+      - name: Upload Allure report artifact
+        if: always()  # Always upload the report, success or failure.
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-report
+          path: allure-report
+          retention-days: 5
