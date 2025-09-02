@@ -13,7 +13,7 @@ jobs:
 
       # Step 2: Set up Java
       - name: Set up JDK 17
-        uses: actions/supersetup-java@v3
+        uses: actions/setup-java@v3
         with:
           java-version: '17'
           distribution: 'temurin'
