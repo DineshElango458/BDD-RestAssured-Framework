@@ -14,7 +14,7 @@ import utilities.FileSystem;
         glue={"steps"},
         dryRun = false,
         monochrome = true,
-         tags = "@smoke"
+         tags = "@fail"
         // tags = "not @Test1",
         // tags = "@wip and not @slow",
         // tags = "@smoke and @fast",
