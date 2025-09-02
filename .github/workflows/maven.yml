@@ -1,6 +1,15 @@
 name: Java CI with Allure Report
 
-on: [push]
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch: # Allows you to manually run the workflow from the GitHub UI
+
+# Sets permissions for the deployment step
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   test-and-report:
@@ -21,22 +30,30 @@ jobs:
       # Step 3: Run the tests. This may fail, but we want to continue anyway.
       - name: Run tests with Maven
         run: mvn test
-        continue-on-error: true  # This is the key! The job will continue even if tests fail.
+        continue-on-error: true
 
       # Step 4: Generate the Allure Report.
-      # The 'if: always()' condition ensures this runs even if previous steps failed.
       - name: Generate Allure Report
-        if: always()  # This is the other key! Always run this step.
+        if: always()
         run: |
           wget https://github.com/allure-framework/allure2/releases/download/2.27.0/allure-2.27.0.tgz
           tar -zxvf allure-2.27.0.tgz
           ./allure-2.27.0/bin/allure generate target/allure-results -o allure-report --clean
 
-      # Step 5: Upload the report artifact. Also runs always().
-      - name: Upload Allure report artifact
-        if: always()  # Always upload the report, success or failure.
-        uses: actions/upload-artifact@v4
+      # Step 5: Configure GitHub Pages (NEW)
+      - name: Setup Pages
+        if: always()
+        uses: actions/configure-pages@v4
+
+      # Step 6: Upload the report to GitHub Pages (NEW)
+      - name: Upload to GitHub Pages
+        if: always()
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: allure-report
-          path: allure-report
-          retention-days: 5
+          path: './allure-report' # Upload the entire generated report folder
+
+      # Step 7: Deploy to GitHub Pages (NEW)
+      - name: Deploy to GitHub Pages
+        if: always()
+        id: deployment
+        uses: actions/deploy-pages@v4
